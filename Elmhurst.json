@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Elmhurst University",
+    "abbreviation": "Elmhurst",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000co7urIAA",
+    "programName": "Elmhurst Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": "<b style='color:red;'>null<b/>",
+    "startDate": "June 8",
+    "endDate": "July 31"
+  },
+  {
+    "item": "about",
+    "schoolname": "Elmhurst University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "Elmhurst",
+    "phone": "(630) 621-9126",
+    "credits": "<b style='color:red;'>null<b/>",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "<b style='color:red;'>null<b/>",
+    "abbreviation": "Elmhurst",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Elmhurst University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "Elmhurst",
+    "registrationMessage": "Registration is now open.",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 17"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Elmhurst University",
+    "trackTitle": "Coding for Web Track",
+    "credits": null,
+    "abbreviation": "Elmhurst",
+    "registrationMessage": "Registration is now open.",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 17"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Elmhurst University",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "Elmhurst",
+    "registrationMessage": "Registration is now open.",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 17"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Elmhurst University",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "Elmhurst",
+    "registrationMessage": "Registration is now open.",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 17"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Elmhurst University",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "Elmhurst",
+    "registrationMessage": "Registration is now open.",
+    "term1StartDate": "June 8",
+    "term1EndDate": "July 31",
+    "term2StartDate": "August 31",
+    "term2EndDate": "December 17"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Elmhurst Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(630) 621-9126",
+    "abbreviation": "Elmhurst"
+  },
+  {
+    "item": "begin",
+    "credits": "<b style='color:red;'>null<b/>",
+    "abbreviation": "Elmhurst",
+    "phone": "(630) 621-9126"
+  }
+]
